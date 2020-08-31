@@ -1,0 +1,6 @@
+[submodule "ephemeral_streams_code"]
+	path = ephemeral_streams_code
+	url = https://github.com/maxzvyagin/ephemeral_streams_code
+[submodule "ephem"]
+	path = ephem
+	url = https://github.com/maxzvyagin/ephemeral_streams_code
